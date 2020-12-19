@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Training3</string>
+
+    <string name="profile_title">Perfil</string>
+    <string name="menu_item_edit">Editar</string>
+
+    <string name="btn_follow">SEGUIR</string>
+    <string name="btn_following">SIGUIENDO</string>
+</resources>

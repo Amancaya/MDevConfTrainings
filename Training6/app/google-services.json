@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "501247849042",
+    "project_id": "mdevconf-860c3",
+    "storage_bucket": "mdevconf-860c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501247849042:android:d8cb1b1d343cc48855258b",
+        "android_client_info": {
+          "package_name": "negron.kaya.training6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501247849042-kog17d0gi7mmde87kfek1chlirbjdjep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "negron.kaya.training6",
+            "certificate_hash": "59215e557b2d983f6c9e4d2f265067e7818005de"
+          }
+        },
+        {
+          "client_id": "501247849042-28jptuj73dd00blfs5h9vbacvuc8lkoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL34uAgucEr1ATcQqYBn7yzOvVZa33NIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501247849042-28jptuj73dd00blfs5h9vbacvuc8lkoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

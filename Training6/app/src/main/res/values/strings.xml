@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Training6</string>
+
+    <string name="menu_add_action">Add speaker</string>
+
+    <string name="delete_title">ELIMINAR</string>
+    <string name="delete_message">Esta seguro de que desea eliminar a %s</string>
+
+    <string name="delete_positive_action">Eliminar</string>
+    <string name="delete_negative_action">Cancelar</string>
+
+    <string name="hint_edit_name">Nombre del speaker</string>
+    <string name="hint_edit_talk">Nombre de la charla</string>
+
+    <string name="btn_text">Guardar</string>
+</resources>
